@@ -10,7 +10,7 @@ dotenv.config();
 
 app.use(
   cors({
-    origin: ["http://localhost:3000", "https://autoshowroomclient.vercel.app"],
+    origin: ["http://localhost:3000", "https://motorone.vercel.app"],
   })
 );
 
